@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelocityQuestion", "Velocit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDeletions", "MinimumDeletions\MinimumDeletions.csproj", "{C1A07651-A7A9-4F0E-A664-0F5DCE3744F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{613F24A1-12AA-4786-9D6C-39A16B665E77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{613F24A1-12AA-4786-9D6C-39A16B665E77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{3C59B02C-A2F1-48D4-96A7-4CBE2019B85B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{3C59B02C-A2F1-48D4-96A7-4CBE2019B85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{A74D0EF8-72A4-4E24-B834-A8934797B23B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{3C59B02C-A2F1-48D4-96A7-4CBE2019B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C59B02C-A2F1-48D4-96A7-4CBE2019B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C59B02C-A2F1-48D4-96A7-4CBE2019B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74D0EF8-72A4-4E24-B834-A8934797B23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74D0EF8-72A4-4E24-B834-A8934797B23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74D0EF8-72A4-4E24-B834-A8934797B23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74D0EF8-72A4-4E24-B834-A8934797B23B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
